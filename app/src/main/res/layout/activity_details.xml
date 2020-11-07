@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.DetailsActivity">
+
+    <TextView
+        android:id="@+id/tvCurrentTasks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Mevcut Görevler"
+        android:textColor="#CC1717"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvFinishedTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Biten Görevler"
+        android:textColor="#62A515"
+        android:textSize="18sp" />
+</LinearLayout>

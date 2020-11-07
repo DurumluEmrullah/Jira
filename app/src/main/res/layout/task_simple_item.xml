@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/taskHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#C11717"
+        android:text="Görev Başlık"
+        android:layout_marginBottom="2dp"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/taskComment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="100dp"
+        android:padding="5dp"
+        android:textColor="#000"
+        android:layout_marginBottom="2dp"
+        android:text="Görev Açıklaması"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/taskPriority"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#00CA08"
+        android:layout_marginBottom="2dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/taskFinish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:background="#00BCD4"
+        android:text="Görev Bitti"
+        android:textColor="#fff" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="------------------------------" />
+</LinearLayout>

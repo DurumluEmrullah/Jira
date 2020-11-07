@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jira</string>
+    <string-array name="develoers">
+        <item>Artan Skorra</item>
+        <item>Bekir Şencan</item>
+        <item>Emrullah Durumlu</item>
+        <item>Muhammed Burak Çakır</item>
+        <item>Mustecep Şahin</item>
+    </string-array>
+</resources>

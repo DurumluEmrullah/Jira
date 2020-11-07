@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187725635972",
+    "firebase_url": "https://mobilejira-6a92a.firebaseio.com",
+    "project_id": "mobilejira-6a92a",
+    "storage_bucket": "mobilejira-6a92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187725635972:android:3b99a9374a5942cdd33dd1",
+        "android_client_info": {
+          "package_name": "com.emrullahdurumlu.jira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187725635972-dg023n7hk4e80tlgils7emc1j1f5nrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_GIVdeDSWP58WMh9yDSNI_hOYLAuF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187725635972-dg023n7hk4e80tlgils7emc1j1f5nrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
